@@ -1,6 +1,5 @@
 # Iran Provinces and Cities Database
 This repository contains SQL files for Iran provinces and cities.
----
 
 You can clone this repo by using:
 ```
